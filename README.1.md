@@ -44,8 +44,10 @@
 
 - 
 
+### 아티클
 
+https://medium.com/알쓸신블/블록체인-개발자가-되려면-어떻게-해야-할까-tomjeong-e5783c9dad8f
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTYwMTM2Ml19
+eyJoaXN0b3J5IjpbLTE4MzkwOTI4MTddfQ==
 -->
