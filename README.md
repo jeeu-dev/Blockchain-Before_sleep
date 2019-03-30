@@ -33,7 +33,7 @@
 
 ------------
 
-### 비트코인
+### [비트코인](https://bitcoin.org/ko/)
 
 - [비트코인 개발 비트코인 개발자 가이드](https://wikidocs.net/book/1699)
 - [비트코인 소스 코드 빌드, 사용 및 블록체인 코드 구조 분석](http://daddynkidsmakers.blogspot.com/2018/02/blog-post_22.html)
